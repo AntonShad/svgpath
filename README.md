@@ -18,7 +18,7 @@ Install
 -------
 
 ```bash
-npm install svgpath
+npm install svgpathasdadasdad
 ```
 
 
